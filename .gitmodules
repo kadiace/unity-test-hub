@@ -1,0 +1,9 @@
+[submodule "unity-dashboard"]
+	path = unity-dashboard
+	url = https://github.com/kadiace/unity-dashboard.git
+[submodule "unity-collector"]
+	path = unity-collector
+	url = https://github.com/kadiace/unity-collector.git
+[submodule "unity-telemetry-sdk"]
+	path = unity-telemetry-sdk
+	url = https://github.com/kadiace/unity-telemetry-sdk.git
